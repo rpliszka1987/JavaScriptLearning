@@ -1,0 +1,1 @@
+These are documents which I have created while learning JavaScript files. Learning proccess. 
